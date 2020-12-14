@@ -18,6 +18,9 @@ contributor:
     deathdate: 1809
     gutenberg_agent_id: '49577'
     url: http://www.gutenberg.org/2009/agents/49577
+covers:
+- cover_type: archival
+  image_path: 63904-h/images/cover.jpg
 creator:
   author:
     agent_name: Radcliffe, Ann Ward
@@ -32,6 +35,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1147
     wikipedia: https://en.wikipedia.org/wiki/Ann_Radcliffe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63904#Les-chateaux-d-Athlin-et-de-Dunbayne-22-Histoire-arrivee-dans-les-Montagnes-d-Ecosse
 gutenberg_issued: '2020-11-28'
 gutenberg_type: Text
 identifiers:
